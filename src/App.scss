@@ -1,0 +1,45 @@
+$grey: #ececec;
+$green: #00cdac;
+
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background: linear-gradient(-20deg, #00cdac 0%, #8ddad5 100%);
+}
+
+.card {
+  height: 450px;
+  width: 330px;
+  background-color: $grey;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.current_weather {
+  height: 65%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.seperattion_line {
+  width: 90%;
+  background-color: #8ddad5;
+  margin-top: 10px;
+  border-radius: 10px;
+  height: 3px;
+}
+
+.forecasts {
+  height: 30%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
