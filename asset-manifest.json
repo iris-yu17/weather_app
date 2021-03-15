@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/weahter_app/static/css/main.26f931eb.chunk.css",
+    "main.js": "/weahter_app/static/js/main.448b302f.chunk.js",
+    "main.js.map": "/weahter_app/static/js/main.448b302f.chunk.js.map",
+    "runtime-main.js": "/weahter_app/static/js/runtime-main.ed1492b8.js",
+    "runtime-main.js.map": "/weahter_app/static/js/runtime-main.ed1492b8.js.map",
+    "static/js/2.d9132cd3.chunk.js": "/weahter_app/static/js/2.d9132cd3.chunk.js",
+    "static/js/2.d9132cd3.chunk.js.map": "/weahter_app/static/js/2.d9132cd3.chunk.js.map",
+    "static/js/3.2a2805ca.chunk.js": "/weahter_app/static/js/3.2a2805ca.chunk.js",
+    "static/js/3.2a2805ca.chunk.js.map": "/weahter_app/static/js/3.2a2805ca.chunk.js.map",
+    "index.html": "/weahter_app/index.html",
+    "static/css/main.26f931eb.chunk.css.map": "/weahter_app/static/css/main.26f931eb.chunk.css.map",
+    "static/js/2.d9132cd3.chunk.js.LICENSE.txt": "/weahter_app/static/js/2.d9132cd3.chunk.js.LICENSE.txt",
+    "static/media/cloud.5c664809.svg": "/weahter_app/static/media/cloud.5c664809.svg",
+    "static/media/rain.1fb3e4d2.svg": "/weahter_app/static/media/rain.1fb3e4d2.svg",
+    "static/media/sun.63eb6ccc.svg": "/weahter_app/static/media/sun.63eb6ccc.svg",
+    "static/media/sun_cloud.415ec846.svg": "/weahter_app/static/media/sun_cloud.415ec846.svg",
+    "static/media/sun_rain.f50d0d50.svg": "/weahter_app/static/media/sun_rain.f50d0d50.svg",
+    "static/media/thunder.d9315f71.svg": "/weahter_app/static/media/thunder.d9315f71.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed1492b8.js",
+    "static/js/2.d9132cd3.chunk.js",
+    "static/css/main.26f931eb.chunk.css",
+    "static/js/main.448b302f.chunk.js"
+  ]
+}
